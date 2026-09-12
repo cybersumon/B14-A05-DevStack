@@ -1,0 +1,123 @@
+[
+    {
+        "id": "react",
+        "name": "React",
+        "category": "Frontend",
+        "description": "A Component-based JavaScript for building modern user interface ",
+        "icon":"url",
+        "rating":4.9,
+        "difficulty": "beginner-Friendly",
+        "badge": "Popular"
+    },
+    {
+        "id": "vue",
+        "name": "Vue",
+        "category": "Frontend",
+        "description": "A Component-based JavaScript for building modern user interface ",
+        "icon":"url",
+        "rating":4.9,
+        "difficulty": "beginner-Friendly",
+        "badge": "Popular"
+    },
+    {
+        "id": "svelte",
+        "name": "Svelte",
+        "category": "Frontend",
+        "description": "A Component-based JavaScript for building modern user interface ",
+        "icon":"url",
+        "rating":4.9,
+        "difficulty": "beginner-Friendly",
+        "badge": "Popular"
+    },
+    {
+        "id": "next.js",
+        "name": "Next.js",
+        "category": "Frontend",
+        "description": "A Component-based JavaScript for building modern user interface ",
+        "icon":"url",
+        "rating":4.9,
+        "difficulty": "beginner-Friendly",
+        "badge": "Popular"
+    },
+    {
+        "id": "node.js",
+        "name": "Node.js",
+        "category": "Frontend",
+        "description": "A Component-based JavaScript for building modern user interface ",
+        "icon":"url",
+        "rating":4.9,
+        "difficulty": "beginner-Friendly",
+        "badge": "Popular"
+    },
+    {
+        "id": "postgresql",
+        "name": "PostgreSQL",
+        "category": "Frontend",
+        "description": "A Component-based JavaScript for building modern user interface ",
+        "icon":"url",
+        "rating":4.9,
+        "difficulty": "beginner-Friendly",
+        "badge": "Popular"
+    },
+    {
+        "id": "redis",
+        "name": "Redis",
+        "category": "Frontend",
+        "description": "A Component-based JavaScript for building modern user interface ",
+        "icon":"url",
+        "rating":4.9,
+        "difficulty": "beginner-Friendly",
+        "badge": "Popular"
+    },
+    {
+        "id": "javascript",
+        "name": "JavaScript",
+        "category": "Frontend",
+        "description": "A Component-based JavaScript for building modern user interface ",
+        "icon":"url",
+        "rating":4.9,
+        "difficulty": "beginner-Friendly",
+        "badge": "Popular"
+    },
+    {
+        "id": "typescript",
+        "name": "TypeScript",
+        "category": "Frontend",
+        "description": "A Component-based JavaScript for building modern user interface ",
+        "icon":"url",
+        "rating":4.9,
+        "difficulty": "beginner-Friendly",
+        "badge": "Popular"
+    },
+    {
+        "id": "java",
+        "name": "Java",
+        "category": "Frontend",
+        "description": "A Component-based JavaScript for building modern user interface ",
+        "icon":"url",
+        "rating":4.9,
+        "difficulty": "beginner-Friendly",
+        "badge": "Popular"
+    },
+    {
+        "id": "tallwindcss",
+        "name": "Tallwind CSS",
+        "category": "Frontend",
+        "description": "A Component-based JavaScript for building modern user interface ",
+        "icon":"url",
+        "rating":4.9,
+        "difficulty": "beginner-Friendly",
+        "badge": "Popular"
+    },
+    {
+        "id": "docker",
+        "name": "Docker",
+        "category": "Frontend",
+        "description": "A Component-based JavaScript for building modern user interface ",
+        "icon":"url",
+        "rating":4.9,
+        "difficulty": "beginner-Friendly",
+        "badge": "Popular"
+    }
+    
+]
