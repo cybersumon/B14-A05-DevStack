@@ -1,0 +1,1 @@
+import type {Technology} from "../components/types/technology";
