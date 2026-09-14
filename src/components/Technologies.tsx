@@ -18,12 +18,14 @@ const Technologies = () => {
                 setLoading(true);
                 setError("");
 
-                const response = await fetch("/tsconfig.json");
+                const response = await fetch("/technologies.json");
                 if(!response.ok){
         throw new Error("Failed to load Technologies");
 
     }
     const data: Technology[] = await response.json();
+
+
 
     setTechnologies(data);
 
@@ -89,7 +91,7 @@ return (
         className="bg-base-100 px-4 py-16 sm:px-6 lg:px-8">
         <div className="mx-auto max-w-7xl">
 
-                // section heading
+                {/* section heading */}
             <div className="mb-10">
                 <h2 className="text-3xl font-bold text-base-content ">
                     Explore the{" "}
@@ -106,7 +108,7 @@ return (
                 </p>
 
             </div>
-                //Loading state
+                {/* Loading state */}
             {loading && (
                 <div className="flex min-h-64 items-center justify-center">
                     <span className="loading loading-spinner loading-lg text-secondary" />
@@ -123,7 +125,7 @@ return (
 
                 )}
 
-                // Technology contant
+                {/* Technology contant */}
                 {!loading && !error && (
                     <div className="grid item-start gap-8 lg:grid-cols-[1fr_280px]">
 
